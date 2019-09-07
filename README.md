@@ -1,7 +1,7 @@
 
 <div align=center ><img src="img/img-home.jpg" alt="" width="600px" style="display: inline-block" /></div>
 
-<div align=center >A Module of Inverter and Rectifier.</div>
+<div align=center >A Module of Buck and Boost.</div>
 
 -------
 
