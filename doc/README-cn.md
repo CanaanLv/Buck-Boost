@@ -72,7 +72,7 @@ R3与R12为康铜丝（采样电阻），采取电流大小，INA282对采样电
 
 R1、R2、R6、R7为电阻分压采样，其电压公式为：
 
-$$ U_t = \frac {R_2}{R_1+R_2}U $$
+<div align=center><a href="https://www.codecogs.com/eqnedit.php?latex=$$&space;U_t&space;=&space;\frac&space;{R_2}{R_1&plus;R_2}U&space;$$"  target="_blank"><img src="https://latex.codecogs.com/gif.latex?$$&space;U_t&space;=&space;\frac&space;{R_2}{R_1&plus;R_2}U&space;$$" title="$$ U_t = \frac {R_2}{R_1+R_2}U $$" /></a></div>
 
 其他同理。
 
